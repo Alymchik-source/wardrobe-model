@@ -10,7 +10,7 @@ A Python OOP practice project simulating a wardrobe with volume tracking, item c
 
 ## Usage Example
 
-python
+```python
 from wardrobe import Wardrobe
 
 # Create a wardrobe with a total volume of 500
@@ -32,6 +32,7 @@ my_wardrobe.show()
 my_wardrobe.take("Jacket", count=1)
 my_wardrobe.clear()
 my_wardrobe.close()
+```
 
 
 ## Notes
