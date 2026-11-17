@@ -1,2 +1,2 @@
 # wardrobe-model
-A Python OOP practice project simulating a wadrobe with volume tracking, item caching, and state validation.
+A Python OOP practice project simulating a wardrobe with volume tracking, item caching, and state validation.
